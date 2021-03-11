@@ -1,4 +1,4 @@
-### Hi, I'm santosh Kumar  👋
+### Hi, I'm Santosh Kumar  👋
 
 [![linkedin](https://img.shields.io/website?label=Santosh&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/santoshkumar11/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Santosh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dataforbusines?s=08)
